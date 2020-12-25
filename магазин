@@ -1,0 +1,29 @@
+ <html>
+ 
+    <h1 style="text-align:center; color:darkgreen">Антиквариатный Магазинъ</h1>
+    <h1 style="text-align:center; color:darkblue">"Монетка"</h1>
+    <p>Приглашаем посетить наш магазинъ,чтобы сдать антиквариат и получить хорошие деньги</p>
+   <table style="border:3px solid black">
+       <tr>
+           <td> Откуда антиквариат </td>
+           <td> Цена антиквариата </td>
+       </tr>
+       <tr>
+           <td>C.C.C.P.</td>
+           <td>Oт 400 рублей </td>
+       </tr>
+       <tr> 
+           <td>Р.И.</td>
+           <td>От 600 рублей </td>
+       </tr>
+       <tr> 
+           <td>Заграница </td>
+           <td>От 1000 рублей </td>
+       </tr>
+   </table>
+    <p>Пожалуйста,приносите антиквариат в хорошем состоянии.</p>
+    <p>
+        <img src=https://cdn.pixabay.com/photo/2020/04/08/05/14/coins-5015729__340.jpg>
+    </p>
+    <p>Адрес: город Зверинск, ул. Зеленая </p>
+    </html>
